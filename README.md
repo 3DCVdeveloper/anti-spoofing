@@ -28,4 +28,9 @@ anti-spoofing example
 在循环中，如果按下了键盘上的任意键，则退出循环。最后，使用cv.release()释放深度相机，并使用cv.destroyAllWindows()关闭所有窗口。
 同时，它还使用了OpenCV中的人脸检测器和抗伪造算法来检测人脸并判断是否是真人的脸。
 
+开发板型号Khadas Vim3-Amlogic A311D
+系统版本 Ubuntu 20.04.6 LTS
+python --version  3.8.10
+opencv_version  4.7.0-dev
+
 
