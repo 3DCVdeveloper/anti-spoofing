@@ -29,8 +29,10 @@ anti-spoofing example
 同时，它还使用了OpenCV中的人脸检测器和抗伪造算法来检测人脸并判断是否是真人的脸。
 
 开发板型号Khadas Vim3-Amlogic A311D
-系统版本 Ubuntu 20.04.6 LTS
-python --version  3.8.10
-opencv_version  4.7.0-dev
 
+系统版本 Ubuntu 20.04.6 LTS
+
+python --version  3.8.10
+
+opencv_version  4.7.0-dev
 
