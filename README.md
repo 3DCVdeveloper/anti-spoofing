@@ -2,6 +2,7 @@
 anti-spoofing example
 真假人脸例程
 	通过本例程的学习，可以了解到如何使用深度信息进行判断是真人脸还是假人脸，加深对深度相机的理解。
+ 
 第一步：观察实验现象:
 >>cd Desktop/Code202308/12-深度相机及其应用
 进入文件所在目录
@@ -10,6 +11,7 @@ anti-spoofing example
 	实验12-2效果如下图所示：
 >>
 >><img width="416" alt="image" src="https://github.com/user-attachments/assets/020fb03a-c30d-4372-b820-4c263263ec07">
+
 第二步：观看实验代码并进行分析
 	打开Spyder，打开12-深度相机及其应用文件夹，点击查看anti-spoofing.py
 	从头开始分析，如下：
